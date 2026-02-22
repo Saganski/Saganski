@@ -39,12 +39,6 @@ Landing page institucional desenvolvida para escritório de advocacia, com foco 
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saganski&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
 <h2>📫 Contato</h2>
 
 📧 Email: **miguelps630@gmail.com**  
