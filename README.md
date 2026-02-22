@@ -10,7 +10,8 @@
 - https://ksmagrojuridico.com.br
 - Landing Page institucional para escritório de advocacia
 
----
+
+
 
 <h2>🚀 Tecnologias</h2>
 
@@ -21,12 +22,12 @@
 <progress value="85" max="100"></progress>
 
 <p>JavaScript</p>
-<progress value="75" max="80"></progress>
+<progress value="75" max="100"></progress>
 
 <p>Git & GitHub</p>
-<progress value="80" max="70"></progress>
+<progress value="80" max="100"></progress>
 
----
+
 
 ### 📬 Contato
 - Email: miguelps630@gmail.com  
