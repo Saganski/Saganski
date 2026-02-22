@@ -12,11 +12,19 @@
 
 ---
 
-### 🛠️ Tecnologias
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+<h2>🚀 Tecnologias</h2>
+
+<p>HTML</p>
+<progress value="90" max="100"></progress>
+
+<p>CSS</p>
+<progress value="85" max="100"></progress>
+
+<p>JavaScript</p>
+<progress value="75" max="80"></progress>
+
+<p>Git & GitHub</p>
+<progress value="80" max="70"></progress>
 
 ---
 
