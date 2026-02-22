@@ -15,17 +15,12 @@
 
 <h2>🚀 Tecnologias</h2>
 
-**HTML**
-![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge)
-
-**CSS**
-![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge)
-
-**JavaScript**
-![JS](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge)
-
-**Git & GitHub**
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-80%25-red?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
