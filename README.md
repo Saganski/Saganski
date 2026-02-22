@@ -8,6 +8,7 @@
 
 ### 🔗 Projetos no ar
 - https://ksmagrojuridico.com.br
+- Landing Page institucional para escritório de advocacia
 
 ---
 
