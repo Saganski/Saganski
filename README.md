@@ -41,10 +41,7 @@ Landing page institucional desenvolvida para escritório de advocacia, com foco 
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sagaanski&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagaanski&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saganski&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
