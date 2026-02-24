@@ -46,7 +46,7 @@ Landing page institucional desenvolvida para escritório de advocacia, com foco 
 
 ---
 
-<hr>
+
 
 <h1 align="center">👋 Hi, I'm Miguel Saganski</h1>
 
